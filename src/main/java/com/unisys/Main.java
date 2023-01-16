@@ -7,7 +7,7 @@ public class Main {
 
         System.out.println("Hello world!");
         Ejercicio1 objetoEjercicio1 = new Ejercicio1(10,(short)-1,1234567,true,12.34,56.78f);
-        System.out.printf("Suma="+objetoEjercicio1.suma());
+        System.out.printf("Suma=%d",objetoEjercicio1.suma());
     }
 
 

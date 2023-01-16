@@ -16,7 +16,7 @@ public class Ejercicio1 {
         presupuesto=presu;
         longitud=longit;
     }
-    public double suma ()
+    public long suma ()
     {
         return gasol+marianico;
     }
